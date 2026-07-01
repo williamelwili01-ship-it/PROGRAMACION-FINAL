@@ -1,7 +1,7 @@
 Nombre del proyecto 
 juego de piedra papel o tijera
 
-William Guatapi
+ William Guatapi
 
 Objetivo del sistema 
 El objetivo es aplicar los conocimientos adquiridos durante la asignatura para crear un programa interactivo que permita a un usuario jugar contra la computadora.
